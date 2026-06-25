@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @WardVandale
 - 👶 16/01/2000 in 🇧🇪 Brugge
 - 🎓 MCT - [IoT Infrastructure Engineer](https://www.howest.be/en/programmes/bachelor/multimedia-and-creative-technologies/iot-infrastructure-engineer) @ [Howest Kortrijk](https://www.howest.be/)
-- 🏢 I work at [Ixor](https://www.ixor.be)
-- 📫 ward.vandale@ixor.be
 - 🗣 [Ward Vandale on LinkedIn](https://www.linkedin.com/in/ward-vandale/)
 
 <!---
